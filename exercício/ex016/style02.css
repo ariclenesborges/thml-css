@@ -1,0 +1,19 @@
+@charset "UTF-8";
+ 
+*{ /* Configurações globais das CSS. altura 100% */
+
+    height: 100%;
+}
+
+body{
+
+   background-image: linear-gradient(45deg, #ffffff, #0000ff); background-attachment: fixed;
+
+
+
+} 
+
+/*background-image:linear-gradient(to right, #3198#E1,10%,Se voçê colocar a porcentagem depois da cor ela vai se rugulada pala porcentagen que voçê colocou. depois voçê colocar as cores com virgulas ):*/
+/*background-image: linear-gradient(to bottom, white, blue);*/ 
+/*45deg= 45 graus*/ 
+/*-45deg= -45 graus*/

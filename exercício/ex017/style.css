@@ -1,0 +1,44 @@
+@charset "UTF-8"; 
+
+/*    *{ Configurações globais das CSS. altura 100% */
+
+/*height: 100%;*/
+
+/*{*/
+
+
+body{
+    font-family:'work sans', Arial, Helvetica, sans-serif;
+    
+  /* MEDIDAS ABSULUTAS:
+
+   cm, mm, in, px, pc 
+      Recomendações oficiais usar:( px )
+
+     MEDIDAS RELATIVAS:
+ 
+   em, ex, rem, vw, vh, %
+
+   16px geralmente = lem*/
+
+   font-size:1em;
+   
+   /* lighter normal bold bolder*/
+   
+}
+
+h1{
+  /* shorthand font
+  - font-style -> font-weight -> font-size -> font-family.
+
+   font-family: work-sans',sans- serif;
+   font-weight:border; 
+   font-size: 3em;
+   fomt-style:italic;
+  */
+   font:italic border 3em 'work sans',sans-serif; 
+
+   /* - Precisar seguir essa ordem para que o ( shorthand ) funcione.*/
+}
+
+

@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+/*    *{ Configurações globais das CSS. altura 100% */
+
+/*height: 100%;*/
+
+/*{*/
+
+/*
+@font-face {
+    font-family:'love' ;
+    src: url('..fontes/love larry.otf') format ('opentype')
+    ,url('..fontes/love larry.tff') format('truetype');
+    font-weight:normal;
+    font-style:normal;
+
+
+obs:usar essa font-face fora de qualquer seletor. 
+
+}
+/*
+
+
+/* tipos de fontes:
+
+    opentype (otf)
+    truetype (ttf)
+    embedded-opentype
+    truetypee-aat (apple advanced typography)
+    svg
+    
+*/
+
+h1{
+
+font-family:'Times New Roman', Times, serif ;
+font-size: 3em;
+
+
+
+}

@@ -1,0 +1,48 @@
+@charset "UTF-8"; 
+
+
+/*    *{ Configurações globais das CSS. altura 100% */
+
+/*height: 100%;*/
+
+/*{*/
+   
+    
+  
+@import url('https://fonts.googleapis.com/css2? family = Montserrat: wght @ 300; 400 & display = swap'); 
+    
+
+@import url('https://fonts.googleapis.com/css2? family = Fuggles & display = swap');
+
+@import url('https://fonts.googleapis.com/css2? family = Tourney: wght @ 100 & display = swap');
+
+@import url('https://fonts.googleapis.com/css2? family = Dança + Script & family = Torneio: wght @ 100 & display = swap');
+
+body{
+font-family:'Courier New', Courier, monospace;
+font-size:16px;
+color:black;
+background-color:blanchedalmond;
+text-align: justify;
+
+
+
+}
+
+
+h1{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;/* sempre colocar o sans-serif no final.*/
+font-size: 3em;
+color: black;
+
+
+}
+
+h2{
+
+font-family:'Dancing Script', ;
+font-size: 3em;
+color: black;
+
+
+}

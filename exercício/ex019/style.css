@@ -1,0 +1,57 @@
+@charset "UTF-8"; 
+
+
+/* 
+*{
+  
+
+}
+*/
+body{
+background-color: azure;
+background-attachment: fixed;
+text-align: justify;
+text-align: left;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+h1#principal{
+text-align: center;
+background-color: blanchedalmond;
+}
+
+hr{
+color: black;
+/* tem que ver como faz para deixar hr linha horizontal com cor*/    
+}
+
+h1{
+color:black
+}
+
+h2{
+color: rgb(0, 0, 0);
+}
+ 
+p{
+color: rgb(0, 0, 0);
+}
+.basico{
+color: blueviolet;
+}
+.intermediario{
+color: dodgerblue;
+}
+.avancado{
+color:gold;    
+}
+.destaque{
+background-color: darkcyan;    
+}
+/*obs:
+
+
+Em html é (id) = em css é (#) só pode um elemento.
+Em html é (class) = em css é (.) pode vários elementos.
+
+*/
