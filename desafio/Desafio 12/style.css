@@ -1,5 +1,19 @@
 @charset "UTF-8";
 
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&family=Sriracha&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+
+:root{
+   
+    --fonte1:Verdana, Geneva, Tahoma, sans-serif;
+    --fonte:'Passion One', Cursive;/*Para títulos*/
+    --fonte:'Sriracha', Cursive;/*Para o Conteúdo*/
+
+
+
+}
+
 *{
     margin:0px;
     padding:0px;
